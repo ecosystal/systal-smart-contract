@@ -6,8 +6,8 @@ Contrato inteligente oficial da Systal Coin (SYST) — um token BEP20 criado com
 
 📚 Documentação disponível em:
 
-- 🇧🇷 [Português](README.pt-BR.md)
-- 🇺🇸 [English](README.en.md)
+- 🇧🇷 [Português](docs/README.pt-BR.md)
+- 🇺🇸 [English](docs/README.en.md)
 
 ---
 
